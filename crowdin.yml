@@ -1,7 +1,7 @@
-"api_token_env": "CROWDIN_PERSONAL_TOKEN"
-"project_id" : "100"
+"api_token": "dacdabae3cfaaabced467274fadf0c5ad0fcf2d6343a76bfb4b1bb709ff98e2987773266b68aa535"
+"project_id" : "148"
 "base_path" : "/language"
-"base_url" : "https://joomla.crowdin.com"
+"base_url" : "https://poznakhovskyy.crowdin.com"
 
 "preserve_hierarchy": true
 
